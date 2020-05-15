@@ -1,5 +1,7 @@
 ## Summary
 
+Hospital Readmission is a big issue within the industry. As someone who wants to become a Data Scientist in Health, I wanted to contribute to its cause. The data obtained was from medicare.gov and it features 19,344 data. The objective of this project was to compare Medicare's predictive data with my own prediction. 
+
 ## Introduction
 
 I am going to do a data science project to predict the progression with machine learning. Data Science is a challenging field for everybody, but it is very rewarding. The reason I say this is because technology is improving and there is a need for data scientists out there. Also, many data scientists often choose a specialization after learning about the industry that interests them (in my case, it would be health).
@@ -37,6 +39,8 @@ Let's try the model with another machine learning algorithm. This time, I am goi
 
 ![](images/Random_Forest_Residual%20Plot.png)
 ![](images/Random_Forest_Scatter_plot.png)
+
+# Conclusion
 
 Why is this important? Our objective is to predict the accuracy Expected Readmission Rate will occur and compare it with the given prediction Readmission Rate. Linear Regression has a precision score of around 51.7% which is less than what Random Forest produced. However, the predicted values from the data have a precision score of around 96%, beating our model. Why is this the case? One of the biggest factors can be feature selection. When Medicare.gov made the dataset public, their prediction could've had more features than it was given. By not having enough features, our model accuracy will not be as accurate. Another reason can be the train/test ratio they used. Overall, even though our data did not beat the data provided, it did really well with the features provided.ontents
 
