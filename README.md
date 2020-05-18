@@ -1,6 +1,6 @@
 ## Overview
 
-Hospital Readmission is a big issue within the industry. As someone who wants to become a Data Scientist in Health, I wanted to contribute to its cause. The data obtained was from medicare.gov and it features 19,344 data. The objective of this project was to compare Medicare's predictive data with my own prediction. 
+Hospital Readmission is a big issue within the industry. As someone who wants to become a Data Scientist in Health, I wanted to contribute to its cause. The data obtained was from medicare.gov and it features 19,344 data. The objective of this project is to predict how readmission rate are and see if we can decrease it.
 
 # Exploratory Data Analysis
 ![](images/Predicted_Readmission_Rate_vs_Expected_Readmission_Rate.png)
