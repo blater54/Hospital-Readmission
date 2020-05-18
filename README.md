@@ -5,6 +5,7 @@ Hospital Readmission is a big issue within the industry. As someone who wants to
 # Exploratory Data Analysis
 ![](images/Predicted_Readmission_Rate_vs_Expected_Readmission_Rate.png)
 ![](images/Linear_Regression_Residual_Plot.png)
+# Random Forest plot:
 ![](images/Random_Forest_Residual%20Plot.png)
 ![](images/Random_Forest_Scatter_plot.png)
 
