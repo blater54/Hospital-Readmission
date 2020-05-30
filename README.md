@@ -7,7 +7,7 @@ Hospital Readmission is a big issue within the industry. As someone who wants to
 ![](images/Linear_Regression_Residual_Plot.png)
 # Random Forest plot:
 ![](images/Random_Forest_Residual%20Plot.png)
-![](images/Random_Forest_Scatter_plot.png)
+![](images/Random_Forest_Scatter_Plot.png)
 
 # Model Building
 * Linear Regression: Baseline
